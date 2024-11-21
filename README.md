@@ -1,16 +1,13 @@
-# [Insira o Nome do Projeto]
+# Brazilian Data Market Analysis: Insights from State of Data Brazil 2022
 
-![image](https://github.com/danielesantiago/TemplatePED/assets/64613885/cc24a702-46b8-4263-a764-8c65c56f02ac)
-
-
-## 📌 Visão Geral
+## 📌 Objective of the Study
 Este projeto visa [insira o objetivo principal do projeto aqui, por exemplo, "analisar dados de vendas para identificar tendências de mercado"]. Utilizamos [insira as técnicas utilizadas, por exemplo, "técnicas avançadas de análise de dados, machine learning e processamento de linguagem natural"] para [insira o resultado esperado do projeto, por exemplo, "identificar padrões de compra e prever tendências futuras"].
 
 📄 [Veja o template da apresentação](https://github.com/danielesantiago/TemplatePED/blob/master/reports/Template_Case.pptx)
 
 📄 [Veja o template do notebook](https://github.com/danielesantiago/TemplatePED/blob/master/notebooks/Case%20Fraude.ipynb)
 
-## 💼 Entendimento do Negócio
+## 💼 Project Description
 
 [Descreva o contexto e a importância do seu projeto. Por exemplo, "No contexto atual de crescente volume de dados, entender padrões complexos em comportamentos de consumidores é crucial para estratégias de marketing eficazes."]
 
@@ -52,37 +49,13 @@ Utilizamos [insira as ferramentas ou métodos de modelagem usados, por exemplo, 
 
 [Aqui, explique o que a imagem acima mostra e como ela é relevante para a avaliação do seu modelo.]
 
-## 📈 Insights e Conclusões
+## 📈 Insights and Conclusions
 
 [Resuma os principais insights obtidos e as conclusões do seu projeto. Por exemplo, "Nossa análise revelou que... Isso sugere que..."]
 
-## 📜 Estrutura do Projeto
+## 🚧 Contact
+I'm always open to suggestions and improvements to my work!
 
-A estrutura de diretórios do projeto foi organizada da seguinte forma:
-```
-├── README.md 
-├── data
-│ ├── processed
-│ └── raw
-├── models
-├── notebooks 
-├── reports
-│ └── figures 
-├── requirements.txt
-├── src
-│ ├── __init__.py 
-│ ├── data
-│ │ └── [NomeDoScriptDeDados].py 
-│ ├── features
-│ │ └── [NomeDoScriptDeFeatures].py 
-│ ├── models
-│ │ ├── predict_model.py 
-│ │ └── train_model.py 
-
-```
-
-## 🚧 Próximos Passos
-
-[Descreva os próximos passos para o seu projeto, por exemplo, "O próximo passo é implementar o modelo em um ambiente de produção para testar sua eficácia em tempo real."]
-
+Links to find me:
+https://www.linkedin.com/in/thaisrosap/
 
